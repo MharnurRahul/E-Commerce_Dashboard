@@ -19,3 +19,16 @@ This E-Commerce Sales Dashboard provides a comprehensive analysis of sales perfo
 - ## 📷 Screenshot
 ![E-Commerce_DAshboard](https://github.com/MharnurRahul/E-Commerce_Dashboard/blob/main/E-Commerce_Dashboard_SS.png)
 
+## ⚙️ Tools & Technologies Used  
+- **Power BI** – For data visualization.  
+- **DAX & Power Query** – For data transformation and calculations.  
+- **Excel / SQL** – Used as the data source.
+  
+- ## 📩 Contact  
+ If you have any questions or suggestions, feel free to reach out:  
+  📧 **Email:** [rahulmharnur07@gmail.com](mailto:rahulmharnur07@gmail.com)   
+🔗 **LinkedIn:** [www.linkedin.com/in/rahulmharnur](https://www.linkedin.com/in/rahulmharnur/)
+  
+
+
+
