@@ -16,6 +16,6 @@ This E-Commerce Sales Dashboard provides a comprehensive analysis of sales perfo
 - Payment Preferences: Cash on Delivery (44%) is the most used payment method, followed by UPI (21%) and Debit Cards (12%).
 - Monthly Profit Variations: The highest profits were recorded in July, September, and October, whereas June and August saw a decline.
 - Customer Spending Behavior: Certain customers contribute significantly higher revenue, with "Haivansh" and "Madhav" leading in total amount spent.
-## 📷 Screenshot
-
+- ## 📷 Screenshot
+![E-Commerce_DAshboard](https://github.com/MharnurRahul/E-Commerce_Dashboard/blob/main/E-Commerce_Dashboard_SS.png)
 
